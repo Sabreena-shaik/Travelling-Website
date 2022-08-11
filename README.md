@@ -6,3 +6,5 @@
 
 
 <p> This is a website which can be used to get notified about updates of the favourite Travelling places. We will be notified about the places after giving our E-mail address.Traveling is a humbling experience. It is merely a superior feeling: to go to another country, and to see people live differently, speak differently, look differently. This is how one comes to understand how big and crazy our world is. Another benefit to traveling is coming to see one’s native country in a different light, in a different way.This website can help people who love travelling to find best places for travelling.</p>
+
+<p> The link to my Website https://delightful-stone-09b0eb410.1.azurestaticapps.net</p>
